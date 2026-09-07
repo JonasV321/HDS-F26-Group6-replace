@@ -1,4 +1,4 @@
-# HDS-F26-Group6-replace
+# HDS-F26-Group6-ProjectName
 # Project title
 ## Link to dataset from Physionet:
 
